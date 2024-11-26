@@ -1,4 +1,4 @@
 import "./styles.css"
-import { screenController } from "./script/screenController.js";
+import { render } from "./scripts/render.js";
 
-screenController();
+render();
